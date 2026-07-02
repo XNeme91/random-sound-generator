@@ -1,4 +1,4 @@
 {
-    "min_interval": 60,
-    "max_interval": 300
+    "min_interval": 5,
+    "max_interval": 10
 }
