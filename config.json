@@ -1,5 +1,5 @@
 {
-    "min_interval": 10,
-    "max_interval": 20,
+    "min_interval": 2,
+    "max_interval": 3,
     "path": "sounds"
 }
